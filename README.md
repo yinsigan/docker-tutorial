@@ -4,7 +4,7 @@
 
 原文发布于我的个人博客：https://www.rails365.net
 
-源码位于：https://github.com/yinsigan/ruby_websocket_tutorial
+源码位于：https://github.com/yinsigan/docker-tutorial
 
 ### 联系我:
 
