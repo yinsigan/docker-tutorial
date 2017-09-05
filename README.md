@@ -6,6 +6,8 @@
 
 源码位于：https://github.com/yinsigan/docker-tutorial
 
+电子版: [PDF](https://www.gitbook.com/download/pdf/book/yinsigan/docker) [Mobi](https://www.gitbook.com/download/mobi/book/yinsigan/docker) [ePbu](https://www.gitbook.com/download/epub/book/yinsigan/docker)
+
 ### 联系我:
 
 email: hfpp2012@gmail.com
