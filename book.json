@@ -1,0 +1,12 @@
+{
+    "plugins": ["github-buttons"],
+    "pluginsConfig": {
+      "github-buttons": {
+          "repo": "yinsigan/docker-tutorial",
+          "types": [
+              "star",
+              "watch"
+          ]
+      }
+    }
+}
