@@ -12,4 +12,4 @@
 
 email: hfpp2012@gmail.com
 
-qq: 903279182
+qq群: 697272886
